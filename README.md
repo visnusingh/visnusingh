@@ -37,7 +37,6 @@ A dynamic Java-based quiz system with real-time feedback and performance trackin
 
 ## 🏆 Achievements
 
-- 📢 Event Manager at South Asian Community, increased engagement by 40%
 - 🛡️ Participated in IBM x Barclays Cyber Security Hackathon
 - 🧪 Hands-on experience with cloud platforms like AWS
 
