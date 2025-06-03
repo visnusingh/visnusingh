@@ -57,7 +57,8 @@ I’m a Computer Science graduate with a passion for building secure, scalable, 
 
 ## 💼 Selected Projects
 
-### 1. 🎓 [Online Learning Platform](https://github.com/visnusingh/Online-Learning-Platform)  
+### 1. 🎓 [Online Learning Platform](https://github.com/visnusingh/Online-Learning-Platform)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"/>
@@ -65,12 +66,26 @@ I’m a Computer Science graduate with a passion for building secure, scalable, 
   <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
-- Developed a **role-based** full-stack platform enabling professors to upload/manage video lectures and students to browse courses in real time.  
-- Implemented **JWT authentication** and **CAPTCHA security**, reducing unauthorized access attempts by **30%**.  
-- Leveraged **MySQL** for course metadata and **Firebase Storage** for media files, cutting initial page load times by **25%**.  
-- Designed a responsive UI with **Bootstrap**, ensuring seamless performance across desktop and mobile.
 
-### 2. 🔐 [Smart Security Camera](https://github.com/visnusingh/Smart-Security-Camera)  
+- **Role-based architecture**  
+  - Professors can upload and manage lecture videos  
+  - Students can browse, search, and enroll in courses in real time  
+- **Security features**  
+  - JWT authentication for access control  
+  - CAPTCHA integration to prevent automated attacks  
+  - Achieved a 30% reduction in unauthorized access attempts  
+- **Data management**  
+  - MySQL for storing course metadata and user profiles  
+  - Firebase Storage for serving and caching media files  
+  - Reduced initial page load times by 25%  
+- **Responsive UI**  
+  - Built with Bootstrap to ensure seamless performance across desktop and mobile  
+  - Intuitive navigation and clean design for enhanced user experience  
+
+---
+
+### 2. 🔐 [Smart Security Camera](https://github.com/visnusingh/Smart-Security-Camera)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -78,22 +93,45 @@ I’m a Computer Science graduate with a passion for building secure, scalable, 
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
-- Built a **real-time motion detection** system that auto-captures and annotates events with **92% accuracy**.  
-- Deployed on **AWS EC2** to support **30 FPS** streaming with **< 200 ms** latency; logged timestamped events to **SQLite** for post-analysis.  
-- Created a **Flask-based dashboard** to view live feeds and review incidents, improving threat-response times by **40%**.  
 
-### 3. 🧠 [Voice Assistant Project](https://github.com/visnusingh/Voice-Recognition-)  
+- **Real-time motion detection**  
+  - Utilizes OpenCV and NumPy to detect movement with 92% accuracy  
+  - Auto-captures and annotates detected events with timestamps  
+- **Cloud deployment**  
+  - Deployed on AWS EC2 to handle 30 FPS streaming with under 200 ms latency  
+  - Scales efficiently to support multiple camera feeds  
+- **Data logging & storage**  
+  - SQLite used for logging events and storing metadata for post-analysis  
+  - Enables historical review and incident reporting  
+- **Web dashboard**  
+  - Flask-based interface to view live feeds and review recorded incidents  
+  - Improved threat-response times by 40% through real-time alerts  
+
+---
+
+### 3. 🧠 [Voice Assistant Project](https://github.com/visnusingh/Voice-Recognition-)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SpeechRecognition-000000?logo=python&logoColor=white" alt="SpeechRecognition"/>
   <img src="https://img.shields.io/badge/PyQt5-41CD52?logo=python&logoColor=white" alt="PyQt5"/>
 </p>
-- Developed a **Python-based voice recognition assistant** with live transcription, translation support, and modular TTS/STT architecture.  
-- Integrated **SpeechRecognition** and **PyAudio** for real-time transcription, achieving near-instantaneous feedback.  
-- Used **gTTS** and **playsound** for text-to-speech; built a **PyQt5 GUI** to control audio streams and display status.  
-- Designed a **JSON-based translations.json** file to support multilingual prompts/responses, enhancing extensibility.  
+
+- **Speech-to-text & Text-to-speech**  
+  - Integrated SpeechRecognition and PyAudio for real-time transcription  
+  - Used gTTS and playsound for responsive voice feedback  
+- **Modular architecture**  
+  - JSON-based `translations.json` to support multiple languages  
+  - Easily extendable TTS/STT modules for future enhancements  
+- **Interactive GUI**  
+  - Built with PyQt5 to control audio streams, display status, and show transcriptions  
+  - Clean layout with start/stop controls and live feedback  
+- **Use cases & extensibility**  
+  - Designed to support tasks like note-taking, simple queries, and translations  
+  - Architecture allows integration with other APIs (e.g., weather, news)  
 
 ---
+
 
 ## 🏆 Achievements & Hackathons
 
