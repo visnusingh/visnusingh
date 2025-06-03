@@ -167,6 +167,15 @@ I’m a Computer Science graduate with a passion for building secure, scalable, 
 
 
 ---
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img
+  src="https://activity-graph.herokuapp.com/graph?username=visnusingh&theme=react-dark"
+  alt="Visnu's GitHub Contribution Graph"
+/>
+</p>
+
 
 ## 📫 Let’s Connect
 
