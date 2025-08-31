@@ -183,8 +183,8 @@ I’m a Computer Science graduate with a passion for building secure, scalable, 
   </a>
 </p>
 
-- **[AWS Certified Developer – Associate](https://www.credly.com/badges/66a67ad5-75c8-4ea5-a4c8-fcbbd377084d/linked_in_profile)** (2024)  
-- **[WordPress Developer Certification](https://www.coursera.org/account/accomplishments/verify/8SLOAMYWX9NU)** (2023)  
+- **[AWS Certified Developer – Associate](https://www.credly.com/badges/66a67ad5-75c8-4ea5-a4c8-fcbbd377084d/linked_in_profile)** (2022)  
+- **[WordPress Developer Certification](https://www.coursera.org/account/accomplishments/verify/8SLOAMYWX9NU)** (2022)  
 
 
 ---
