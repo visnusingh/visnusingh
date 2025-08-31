@@ -132,6 +132,27 @@ I’m a Computer Science graduate with a passion for building secure, scalable, 
 
 ---
 
+### 4. 🌐 [Portfolio Website](https://visnusingh.com)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</p>
+
+- **Personal portfolio website**  
+  - Showcases my projects, resume, and skills in a clean responsive layout  
+  - Integrated **view/download resume** feature directly from site  
+- **Tech stack**  
+  - Built with **HTML, CSS, JS**, deployed using **Firebase Hosting** and optimized with **Cloudflare**  
+- **Mobile-first design**  
+  - Hamburger menu & responsive grid for smooth mobile experience  
+- **Performance & reliability**  
+  - CDN caching via Cloudflare reduced average load time by **40%**  
+
+
 
 ## 🏆 Achievements & Hackathons
 
