@@ -4,19 +4,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visnusingh370)
 [![Gmail Badge](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:visnusingh370@gmail.com)
 
+## 📊 GitHub Overview
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=visnusingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800&v=2"
-    alt="Visnu's GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=visnusingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&v=2"
-    alt="Top Languages"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=visnusingh&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=visnusingh&theme=github_dark" height="170" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=visnusingh&theme=github_dark" height="170" />
+</p>
 I’m a Computer Science graduate with a passion for building secure, scalable, and user-centric applications. Whether it’s a full-stack learning platform or a real-time Python tool, I thrive on turning ideas into production-ready solutions.
 
 ---
@@ -195,21 +192,34 @@ I’m a Computer Science graduate with a passion for building secure, scalable, 
 
 
 ---
-## 🗺️ Contribution Map
+## 🟩 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=visnusingh&theme=radical" />
+  <img src="https://ghchart.rshah.org/409ba5/visnusingh" alt="Visnu's GitHub Contribution Chart" />
 </p>
-
 
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/visnusingh"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/visnusingh370"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:visnusingh370@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://visnusingh.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="42" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/visnusingh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/visnusingh370" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:visnusingh370@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  Open to software engineering roles, backend systems work, and freelance collaborations.
 </p>
 
 > “I believe in building meaningful tools, not just writing code.”
