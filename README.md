@@ -5,9 +5,16 @@
 [![Gmail Badge](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:visnusingh370@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visnusingh&show_icons=true&theme=dark" alt="Visnu's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visnusingh&layout=compact&theme=dark" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=visnusingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800&v=2"
+    alt="Visnu's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=visnusingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&v=2"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
 
 I’m a Computer Science graduate with a passion for building secure, scalable, and user-centric applications. Whether it’s a full-stack learning platform or a real-time Python tool, I thrive on turning ideas into production-ready solutions.
