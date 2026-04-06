@@ -1,22 +1,46 @@
 # 👋 Hi, I’m Visnu Singh
 
-[![Profile Views](https://komarev.com/ghpvc/?username=visnusingh)](https://github.com/visnusingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visnusingh370)
-[![Gmail Badge](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:visnusingh370@gmail.com)
-
-## 📊 GitHub Overview
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=visnusingh&theme=github_dark" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=visnusingh&theme=github_dark" height="170" />
+  <a href="https://visnusingh.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-visnusingh.com-111111?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/visnusingh370" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Visnu%20Singh-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:visnusingh370@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Email-Contact-D14836?style=for-the-badge" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=visnusingh&theme=github_dark" height="170" />
+  <img src="https://komarev.com/ghpvc/?username=visnusingh&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
-I’m a Computer Science graduate with a passion for building secure, scalable, and user-centric applications. Whether it’s a full-stack learning platform or a real-time Python tool, I thrive on turning ideas into production-ready solutions.
+
+<p align="center">
+  🚀 Backend • 🌐 Full-Stack • ☁️ Cloud • 🤖 AI/ML • 🔐 Security
+</p>
+
+<p align="center">
+  Building secure, scalable, and production-ready applications with a strong focus on backend systems, cloud deployment, and real-world engineering.
+</p>
 
 ---
+
+## 🛠 Core Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
+</p>
+
 
 ## 💡 About Me
 
