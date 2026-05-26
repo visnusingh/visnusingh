@@ -216,10 +216,10 @@
 
 
 ---
-## 🟩 Contribution Calendar
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/visnusingh" alt="Visnu's GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visnusingh&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ## 📫 Let’s Connect
