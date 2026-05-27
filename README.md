@@ -219,12 +219,14 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visnusingh&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=visnusingh&theme=github-compact&hide_border=true&area=true" alt="Visnu Singh GitHub Contribution Activity" />
 </p>
 
-## 📫 Let’s Connect
+## 🟩 Contribution Calendar
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/visnusingh?cache=20260527" alt="Visnu Singh GitHub Contribution Calendar" />
+</p>
   <a href="https://visnusingh.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" height="42" alt="Portfolio" />
   </a>
